@@ -1,0 +1,91 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="altair" />
+          <option value="anyio" />
+          <option value="asttokens" />
+          <option value="attrs" />
+          <option value="blinker" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="cryptography" />
+          <option value="defusedxml" />
+          <option value="distro" />
+          <option value="Faker" />
+          <option value="gitdb" />
+          <option value="GitPython" />
+          <option value="google-auth" />
+          <option value="google-genai" />
+          <option value="httpcore" />
+          <option value="httpcore2" />
+          <option value="httptools" />
+          <option value="httpx" />
+          <option value="httpx2" />
+          <option value="ipykernel" />
+          <option value="ipython" />
+          <option value="ipython_pygments_lexers" />
+          <option value="itsdangerous" />
+          <option value="jedi" />
+          <option value="Jinja2" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="jupyter_client" />
+          <option value="jupyter_core" />
+          <option value="mcp" />
+          <option value="mcp-types" />
+          <option value="mysql-connector-python" />
+          <option value="narwhals" />
+          <option value="nest-asyncio2" />
+          <option value="nltk" />
+          <option value="numpy" />
+          <option value="ollama" />
+          <option value="opentelemetry-api" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="platformdirs" />
+          <option value="prompt_toolkit" />
+          <option value="protobuf" />
+          <option value="pyarrow" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="pycparser" />
+          <option value="pydeck" />
+          <option value="PyJWT" />
+          <option value="python-multipart" />
+          <option value="referencing" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="rpds-py" />
+          <option value="smmap" />
+          <option value="sniffio" />
+          <option value="sse-starlette" />
+          <option value="starlette" />
+          <option value="streamlit" />
+          <option value="tenacity" />
+          <option value="toml" />
+          <option value="tornado" />
+          <option value="tqdm" />
+          <option value="traitlets" />
+          <option value="truststore" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="wcwidth" />
+          <option value="websockets" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mcp.server.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
