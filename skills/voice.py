@@ -20,7 +20,7 @@ def listen():
     print("Listening...")
     try:
         with sr.Microphone() as source:
-            recognizer.adjust_for_ambient_noise(source)
+            # recognizer.adjust_for_ambient_noise(source)
             audio = recognizer.listen(source)
             text = recognizer.recognize_google(audio)
             text = text.lower()
